@@ -45,5 +45,8 @@ The file conatins a code that implements a face-swapping task using a diffusion 
 
 # Challenges faced
 - Incorrect positioning of the intended image that was to be replaced with
-- personal greivence- had little knowledge about Diffusion or any other model related to Face swapping ( had to resort myself to use chatgpt for code clarification)
+- personal grievance- had little knowledge about Diffusion or any other model related to Face swapping ( had to resort to use ChatGPT for code clarification)
+
+# Future Works
+- Attempt to attain the correct positioning so as to achieve the face swap.
 
